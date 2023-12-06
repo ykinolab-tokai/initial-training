@@ -1,20 +1,44 @@
-a = [4, 8, 3, 4, 1]
-res1 = len(a)
-print(res1)
+a = 1.2 + 3.8
+print(a)
+print(type(a))
 print()
 
-res2 = max(a)
-print(res2)
+b = 10 // 100
+print(b)
+print(type(b))
 print()
 
-res3 = min(a)
-print(res3)
+c = 1 >= 0
+print(c)
+print(type(c))
 print()
 
-res4 = sum(a)
-print(res4)
+d = 'Hello World' == 'Hello World'
+print(d)
+print(type(d))
 print()
 
-res5 = sorted(a)
-print(res5)
+e = not 'Chainer' != 'Tutorial'
+print(e)
+print(type(e))
+print()
+
+f = all([True, True, False])
+print(f)
+print(type(f))
+print()
+
+g = any([True, True, False]) 
+print(g)
+print(type(g))
+print()
+
+h = abs(-3)
+print(h)
+print(type(h))
+print()
+
+i = 2 // 0
+print(i)
+print(type(i))
 print()
