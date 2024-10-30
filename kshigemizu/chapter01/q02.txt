@@ -1,0 +1,3 @@
+絶対パスはルートディレクトリ（/）から始まるパスで、ファイルやディレクトリの完全な位置を指定する。macは/からでwindowsは「c,dから始まる」ex)mac /Users/KN　windows　cj/ykino/code_workspace/initial-training-2024/~。
+相対パスは現在のディレクトリを基準 にしたパスで相対的な位置を指定する。(./)(../)など を使用する。今いるところから。ex)code_workspace/initial-training-2024/~
+
